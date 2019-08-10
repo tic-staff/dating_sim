@@ -1,0 +1,31 @@
+- lines that start with - are ignored
+
+- scene: takes you to other scenes
+- "scene: room24" would take you to the scene written in room24.txt
+- the game always starts with the scene called start
+
+- character: displays a character
+- i.e. "character: aidan"
+
+- background: displays a background
+- i.e. "background: palace"
+
+- "character: none" clears the character off the screen
+
+- choice: Option One Text=option1scene, Option Two Text=option2scene, ...
+- choice lets you show a menu that takes the player to different scenes
+
+- set: sets the value of a stat
+- i.e. "set: aidan_love 100" would set a new stat called aidan_love to 100
+
+- add/sub: add or subtract a stat
+- i.e. "add: aidan_love 5"
+
+- compare: stat1 stat2 scene1 scene2
+- looks at each stat and goes to the scene corresponding with the stat with the highest number
+- can also replace either one of the stats with a constant number
+- this can be used to only trigger certain scenes if a stat is high enough
+
+- last but not least: text
+- if a line doesnt start with a command then it is assumed to be text that a character will say
+- i.e. "Aidan: want to see my toes?"

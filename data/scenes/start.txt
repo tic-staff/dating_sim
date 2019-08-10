@@ -1,0 +1,2 @@
+compare test test2 room24 room25
+

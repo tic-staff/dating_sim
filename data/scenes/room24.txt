@@ -1,0 +1,14 @@
+﻿character: rob
+background: none
+Rob: don't make me do it..
+character: aidan
+Aidan: ..do what?
+character: rob
+Rob: I really don't wanna do it..
+character: aidan
+Aidan: uh...
+character: rob
+...
+character: aidan
+Narrator: Aidan looks like the quiet nerd at the back of the class who some guy would have a crush on after bumping into him in the hall carrying his study books, and he'd be super shy up until the end of the date night where he'd take his date out to the ally, bend him over, and show him the power of a Nat 20 to enlargement
+choice: Go to room 24=room24, Go to room 25=room25

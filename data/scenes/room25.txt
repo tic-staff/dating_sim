@@ -1,0 +1,11 @@
+character: alex
+background: none
+Alex: im a bad
+character: none
+Josh: yeah what difference between parallel and series
+character: alex
+Alex: i get it bc you dont know circuits haha
+character: none
+Josh: *cries*
+
+choice: Go to room 24=room24, Go to room 25=room25
